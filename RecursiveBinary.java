@@ -35,7 +35,7 @@ class RecursiveBinary
         int x = 5;
         int result = teste.binarySearch(vet,0,n-1,x);
         if (result == -1)
-            System.out.println("Valor nao econtrado");
+            System.out.println("Valor nao encontrado");
         else
             System.out.println("Valor ocupa a posicao:  "+result);
     }
