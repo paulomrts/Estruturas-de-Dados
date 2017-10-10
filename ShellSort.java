@@ -1,4 +1,4 @@
-/** Aluno Paulo Martins - 132587 
+/*
  *  Estruturas de Dados 2 - Engenharia de Computação 
  Implementação do Método de Ordenação Shellsort, seguindo a sequência de Knuth (h=(h*3)+1).
  Imprimir o vetor para cada sequência de h-ordenado.    
